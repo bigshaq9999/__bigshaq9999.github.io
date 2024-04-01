@@ -1,4 +1,4 @@
 baseURL = 'https://bigshaq9999.github.io/'
 languageCode = 'en-us'
 title = "qronox's personal website"
-theme = 'lightbi-hugo'
+theme = 'papermod'
